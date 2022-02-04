@@ -10,27 +10,45 @@ A physics informed neural network (PINN) incorporates the physics of a system by
 DOI : https://doi.org/10.1016/j.cma.2021.114474
 
 Cite: 
+
 BIBTEX
 
 @article{MATTEY2022114474,
+
 title = {A novel sequential method to train physics informed neural networks for Allen Cahn and Cahn Hilliard equations},
+
 journal = {Computer Methods in Applied Mechanics and Engineering},
+
 volume = {390},
+
 pages = {114474},
+
 year = {2022},
+
 issn = {0045-7825},
+
 doi = {https://doi.org/10.1016/j.cma.2021.114474},
+
 url = {https://www.sciencedirect.com/science/article/pii/S0045782521006939},
+
 author = {Revanth Mattey and Susanta Ghosh},
 
 TEXT
 
 Revanth Mattey, Susanta Ghosh,
+
 A novel sequential method to train physics informed neural networks for Allen Cahn and Cahn Hilliard equations,
+
 Computer Methods in Applied Mechanics and Engineering,
+
 Volume 390,
+
 2022,
+
 114474,
+
 ISSN 0045-7825,
+
 https://doi.org/10.1016/j.cma.2021.114474.
+
 (https://www.sciencedirect.com/science/article/pii/S0045782521006939)
